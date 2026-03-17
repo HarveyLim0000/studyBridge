@@ -1,0 +1,4 @@
+cd /Users/dhno/project/STUDYBRIDGE/frontend
+
+npx expo run:android
+npx expo run:ios
